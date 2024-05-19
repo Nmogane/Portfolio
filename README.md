@@ -13,7 +13,7 @@ The purpose of this repository is to showcase my technical and theoretical under
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Configuring SIEM security operations using microsoft sentinel | <a href="https://google.com">Detection Lab</a>|
 
 ## Tools
 - Programming: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
@@ -28,6 +28,6 @@ The purpose of this repository is to showcase my technical and theoretical under
 - Security Blue Team: Blue Team Junior Analyst
 
 ## Projects
--
+- [to be updated]
 ## Labs
--
+- [to be updated]
