@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Networks and Security Engineering student, and throughout this journey, I have developed a deep interest in cybersecurity from both defensive and offensive perspectives. Consequently, I have dedicated significant time to honing my skills with security tools for pentesting and cyber security. My focus extends to understanding the intricacies of operating systems, networks, web applications, and their vulnerabilities.
+I am a Networks and Security Engineering student, and throughout this journey, I have developed a deep interest in cybersecurity from both defensive and offensive perspectives. Consequently, I have dedicated significant time to honing my skills with security tools for pentesting and defensive security. My focus extends to understanding the intricacies of operating systems, networks, web applications, and their vulnerabilities.
 
 ## Objective
 
